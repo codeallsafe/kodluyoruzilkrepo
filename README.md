@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degisti
 ## License
 
 [MIT](https://choosealicense.com/licences/mit/)
+
+[Patika Link](https://app.patika.dev/ica)
